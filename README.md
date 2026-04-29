@@ -24,6 +24,10 @@ If you are a content creator, archivist, or developer looking for fast and safe 
 * [Cobalt.tools](https://cobalt.tools/) - A great, open-source media downloader that supports Twitter and other platforms without ads. 
 * [TwitterVideoDownloader](https://twittervideodownloader.com/) - Classic tool specifically for pulling MP4s from X. 
 
+## 🤖 Telegram Bots
+
+* [Cyber Collector Bot](https://t.me/cybercollectorbot) - Telegram bot: TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter, Facebook. Free, no signup, no ads.
+
 ## 🎧 Audio & MP3 Extractors
 
 * **[GetMediaTools MP3 Converter](https://getmediatools.com/video-to-mp3/)** - Instantly strips audio from social videos into high-quality MP3s safely.

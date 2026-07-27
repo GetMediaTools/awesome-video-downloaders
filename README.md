@@ -29,6 +29,9 @@ If you are a content creator, archivist, or developer looking for fast and safe 
 * **[GetMediaTools MP3 Converter](https://getmediatools.com/video-to-mp3/)** - Instantly strips audio from social videos into high-quality MP3s safely.
 * [Dirpy](https://dirpy.com/) - An advanced online digital video recorder (DVR) that allows you to record and convert free streaming media.
 
+* [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, one-command Docker installation, automatic updates, nightly yt-dlp maintenance, and rollback.
+* [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Telegram group bot that automatically turns supported video links into native posts with media reuse and rollback-safe updates.
+
 ---
 
 ### Contributing

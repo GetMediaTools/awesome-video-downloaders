@@ -19,6 +19,14 @@ If you are a content creator, archivist, or developer looking for fast and safe 
 * [SSSTik](https://ssstik.io/) - Great programmatic tool for TikTok with an MP3 option. Contains display ads.
 * [TikMate](https://tikmate.online/) - Alternative TikTok extractor with a browser extension option.
 
+## 📸 Instagram Specific
+
+* [InstaNoMark](https://instagramvideodownloadwithoutwatermaker.com/) - Downloads Instagram videos, reels, and stories without a watermark, no account needed.
+
+## 📺 YouTube Specific
+
+* [YouTubeVideoToMP4](https://youtubevideotomp4.com/) - Converts and downloads YouTube videos to MP4, free, no sign-up required.
+
 ## 🐦 X / Twitter Specific
 
 * [Cobalt.tools](https://cobalt.tools/) - A great, open-source media downloader that supports Twitter and other platforms without ads. 
